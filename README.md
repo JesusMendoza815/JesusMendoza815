@@ -2,11 +2,13 @@
 <img align="center" width="100" heigth="100" src="robot-hello.gif"/> 
 <h1>
 
+<div align="center">
+
 <h3 align="center"> Computer Systems CESBA | Oracle - One next education | Kodemia 🖤 </h3>
-<p> <li> Here you can find school and personal projects 📚 <p>
-<p> <li> I'm constantly learning 🚀 <p>
-<p> <li> I'm interested in frontend and backend technologies 🎨💻<p>
-<p> <li> You can send me an email here: jesuscamposmendoza815@gmail.com 💌 <p>
+<p> <li> Here you can find school and personal projects 📚 <li><p>
+<p> <li> I'm constantly learning 🚀 <li><p>
+<p> <li> I'm interested in frontend and backend technologies 🎨💻<li><p>
+<p> <li> You can send me an email here: jesuscamposmendoza815@gmail.com 💌 <li><p>
 
 ## 🛠 Skills
 
@@ -35,5 +37,7 @@
 <div align="center">
 
 [![Jesus´s GitHub stats](https://github-readme-stats.vercel.app/api?username=jesusmendoza815&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 </div>
