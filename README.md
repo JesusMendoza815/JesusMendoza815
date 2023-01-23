@@ -1,14 +1,15 @@
-<h1 align="center"> I´m Jesús Mendoza <br> 
+<h1 align="center"> I´m Jesús Mendoza 
+<br> 
 <img align="center" width="100" heigth="100" src="robot-hello.gif"/> 
 <h1>
 
 
 
 <h3 align="center"> Computer Systems CESBA | Oracle - One next education | Kodemia 🖤 </h3>
-<p> <li> Here you can find school and personal projects 📚 <li><p>
-<p> <li> I'm constantly learning 🚀 <li><p>
-<p> <li> I'm interested in frontend and backend technologies 🎨💻<li><p>
-<p> <li> You can send me an email here: jesuscamposmendoza815@gmail.com 💌 <li><p>
+<p> <li> Here you can find school and personal projects 📚 <p>
+<p> <li> I'm constantly learning 🚀 <p>
+<p> <li> I'm interested in frontend and backend technologies 🎨💻<p>
+<p> <li> You can send me an email here: jesuscamposmendoza815@gmail.com 💌 <p>
 
 
 ## 🛠 Skills
