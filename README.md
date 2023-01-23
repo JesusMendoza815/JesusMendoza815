@@ -1,6 +1,6 @@
 <h1 align="center"> I´m Jesús Mendoza 
 <br>
-<video align="center" width="150" heigth="150" src="robot-hello.gif" autoplay></video> 
+<img align="center" width="150" heigth="150" src="robot-hello.gif"> 
 <h1>
 
 <h3 align="center"> Computer Systems CESBA | Oracle - One next education | Kodemia 🧡 </h3>
