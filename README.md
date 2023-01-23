@@ -9,17 +9,26 @@
 <p> <li> You can send me an email here: jesuscamposmendoza815@gmail.com 💌 <p>
 
 ## 🛠 Skills
+
 <p> Programming Languages </p>
-[![My Skills](https://skillicons.dev/icons?i=nodejs,java&theme=dark)](https://skillicons.dev)
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,java" />
+</a>
 
 <p> Frontend development </p>
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,css,sass,html&theme=dark)](https://skillicons.dev)
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap" />
+</a>
 
 <p> Database </p>
-[![My Skills](https://skillicons.dev/icons?i=mysql&theme=darkt)](https://skillicons.dev)
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+</a>
 
 <p> Tools </p>
-[![My Skills](https://skillicons.dev/icons?i=git, github&theme=dark)](https://skillicons.dev)
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github" />
+</a>
 
 ##
 
