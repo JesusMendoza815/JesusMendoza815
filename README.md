@@ -1,9 +1,9 @@
-<h1 align="center"> I´m Jesús Mendoza 
+<h1 align="center">Hi, i'm Jesús Mendoza
 <br>
 <img align="center" width="150" heigth="150" src="robot-hello.gif"> 
 <h1>
 
-<h3 align="center"> Computer Systems CESBA | Oracle - One next education | Kodemia 🧡 </h3>
+<h3 align="center">Computer Systems | Oracle - One next education | Kodemia 🧡</h3>
 <p> <li> Here you can find school and personal projects 📚 <p>
 <p> <li> I'm constantly learning 🚀 <p>
 <p> <li> I'm interested in frontend and backend technologies 🎨💻<p>
