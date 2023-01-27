@@ -1,33 +1,34 @@
-<h1 align="center">Hi, i'm Jesús Mendoza
+<h1 align="center">Hola, soy Jesús Mendoza
 <br>
 <img align="center" width="150" heigth="150" src="robot-hello.gif"> 
 <h1>
 
-<h3 align="center">Computer Systems | Oracle - One next education | Kodemia 🧡</h3>
-<p> <li> Here you can find school and personal projects 📚 <p>
-<p> <li> I'm constantly learning 🚀 <p>
-<p> <li> I'm interested in frontend and backend technologies 🎨💻<p>
-<p> <li> You can send me an email here: jesuscamposmendoza815@gmail.com 💌 <p>
+<h3 align="center"> Sistemas Computacionales </h3>
+<h3 align="center"> Oracle - One next education <strong>|</strong> Kodemia 🧡 </h3>
+<p> <li> Aquí podrás encontrar algunos proyectos escolares y personales 📚<p>
+<p> <li> En constante aprendizaje 🚀<p>
+<p> <li> Me interesan las tecnologías de Front-End y Back-End 🎨💻<p>
+<p> <li> Puedes contactarme directo a mi email: jesuscamposmendoza815@gmail.com 💌 <p>
 
 
 ## 🛠 Skills
 
-<p> Programming Languages </p>
+<p> Lenguajes de programación </p>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,java" />
+    <img src="https://skillicons.dev/icons?i=js,java" />
 </a>
 
-<p> Frontend development </p>
+<p> Tecnologías Front-End </p>
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap" />
 </a>
 
-<p> Database </p>
+<p> Bases de datos </p>
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql" />
 </a>
 
-<p> Tools </p>
+<p> Herraminetas </p>
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github" />
 </a>
