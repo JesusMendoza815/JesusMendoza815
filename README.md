@@ -3,7 +3,7 @@
 <img align="center" width="150" heigth="150" src="robot-hello.gif"> 
 <h1>
 
-<h3 align="center"> Sistemas Computacionales </h3>
+<h2 align="center"> Sistemas Computacionales </h2>
 <h3 align="center"> Oracle - One next education <strong>|</strong> Kodemia 🧡 </h3>
 <p> <li> Aquí podrás encontrar algunos proyectos escolares y personales 📚<p>
 <p> <li> En constante aprendizaje 🚀<p>
