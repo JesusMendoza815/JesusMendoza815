@@ -10,33 +10,11 @@
 
 ## 🛠 Skills
 
-<p> Lenguajes de programación </p>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,java" />
+    <img src="https://skillicons.dev/icons?i=js,java,html,css,sass,bootstrap,react,nodejs,mysql,mongodb,git,github,vscode,babel&perline=7" />
 </a>
-<hr/>
-<p> Tecnologías Frontend </p>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,react" />
-</a>
-<hr/>
-<p> Tecnologías Backend</p>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs" />
-</a>
-<hr/>
-<p> Bases de datos </p>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</a>
-<hr/>
-<p> Herramientas</p>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</a>
-<hr/>
 
-<div align="center">
+<hr/>
 
 [![Jesus´s GitHub stats](https://github-readme-stats.vercel.app/api?username=jesusmendoza815&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
