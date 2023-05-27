@@ -1,11 +1,8 @@
-<h2>Hola, soy Jesús Mendoza<h1>
-<img align="center" width="100" heigth="100" src="robot-hello.gif">
-
-<h3><strong>Lic. Sistemas Computacionales | Frontend Developer</strong></h3>
-<i>Apasionado de la tecnología y la programación, estoy constantemente en busca de desafíos que me permitan crecer y destacar en mi campo. Mi dedicación hacia estas áreas me impulsa a mejorar continuamente y a buscar nuevas oportunidades para superarme.</i>
+<h2>Hey 🤘🏽, yo soy <span style="color: white; font-weight: 500;">Jesús Mendoza 🤠</span></h2>
+<h3><strong>Lic. Sistemas Computacionales | <span style="padding: 0px 2px; border: 2px solid white;">Frontend Developer 💛</span></strong></h3>
+<i style="font-weight: 500">Apasionado de la tecnología y la programación, estoy constantemente en busca de desafíos que me permitan crecer y destacar en mi campo. Mi dedicación hacia estas áreas me impulsa a mejorar continuamente y a buscar nuevas oportunidades para superarme.</i>
 <p> <li> ¡Aquí encontrarás una variedad de proyectos escolares y personales!  📚<p>
 <p> <li> En constante aprendizaje 🚀<p>
-<p> <li> Me apasionan las tecnologías de Frontend y Backend 🎨💻<p>
 <p> <li> Puedes contactarme directo a mi email: jesuscamposmendoza815@gmail.com 💌 <p>
 
 ## 🛠 Skills
